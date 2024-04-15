@@ -1,0 +1,78 @@
+/*
+Programador:Ismael Anrrango
+Fecha: 11 de arbil del 2024
+Revision:n
+detalle este documento contiene el index de mi pagina web
+*/
+.ima1{
+width: 90;
+height: 90px;
+}
+#idiv1{
+background-color: rgb(63, 63, 151);
+color: antiquewhite;
+padding: 5px;
+}
+#idiv2{
+    text-align: end;
+}
+.tituloparrafo{
+text-align: center;
+font-size: 35px;
+}
+
+.ima2{
+    width: 360px;
+    height: 300px;
+    
+}
+.contimg{
+   text-align: center;
+
+}
+.parra{
+    text-align: center;
+    font-size: 20px;
+}
+#cuerpo1{
+    background-color: bisque;
+}
+.ima3{
+    width: 310px;
+    height: 300px;
+}
+#pieinicio{
+    text-align:center;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+#pietabla{
+    text-align:center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+#divtabla{
+
+background-color:rgb(22, 184, 122);
+}
+.text{
+    text-align: center;
+    color: brown;
+    font-size: 50px;
+    background-color: burlywood;
+    /**padding me permite acer mas grande un cuadro de color**/
+padding: 30px;
+}
+.tfecha{
+    text-align: center;
+    color: rgb(196, 20, 20);
+    background-color: rgb(30, 182, 182);
+}
+#piefecha{
+    text-align:center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255); 
+}
+#cuerpofecha{
+    background-color: rgb(72, 120, 165);
+}
